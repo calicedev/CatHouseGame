@@ -1,4 +1,4 @@
-# 유니티로 만든 고양아 키우기 게임
+# 유니티로 만든 고양이 키우기 게임
 ![스크린샷(2)](https://user-images.githubusercontent.com/28801367/110124092-08a68880-7e05-11eb-8df2-7e46ca4df8ef.png)
 ![스크린샷(3)](https://user-images.githubusercontent.com/28801367/110124098-0a704c00-7e05-11eb-902a-78886e7aab46.png)
 
